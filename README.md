@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to my GitHub repository where I document my learning journey into the world of Docker and Kubernetes. 
 
-As I transition towards a career in cloud and DevOps engineering, this repository serves as both a personal tracker and a showcase of my developing skills. 
+As I develop my career in cloud computing, this repository serves as both a personal tracker and a showcase of my developing skills in Docker and K8s. 
 
 I'm currently studying for the Certified Kubernetes Administrator (CKA) certification.
 
