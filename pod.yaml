@@ -7,4 +7,4 @@ metadata:
 spec:
   containers:
   - name: mywebserver
-    image: nginx
+  image: nginx
