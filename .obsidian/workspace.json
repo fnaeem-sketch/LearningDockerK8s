@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "53cad24c889c494e",
+        "id": "f3baa1c017caa95c",
         "type": "tabs",
         "children": [
           {
-            "id": "2617f35940fa0a2c",
+            "id": "42c25635104008fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "key-components/kube-apiserver.md",
+                "file": "learning-resources/bookmarks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b066d762f857714e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-resources/Online Cources.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "key-components/kube-apiserver.md",
+                "file": "learning-resources/Online Cources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "key-components/kube-apiserver.md",
+                "file": "learning-resources/Online Cources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "key-components/kube-apiserver.md"
+                "file": "learning-resources/Online Cources.md"
               }
             }
           }
@@ -146,12 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2617f35940fa0a2c",
+  "active": "b066d762f857714e",
   "lastOpenFiles": [
-    "kubernetes-key-concepts.md",
-    "etcd.md",
+    "().md",
+    "learning-resources/Online Cources.md",
+    "Screenshot 2024-07-09 at 12.02.05.png",
     "learning-resources/bookmarks.md",
+    "README.md",
+    "Screenshot 2024-07-09 at 11.58.31.png",
+    "etcd.md",
     "key-components/kube-apiserver.md",
+    "kubernetes-key-concepts.md",
     "key-concepts.md"
   ]
 }
