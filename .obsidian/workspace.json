@@ -13,7 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-resources/bookmarks.md",
+                "file": "key-components/kube-apiserver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d176ef82b1ad9907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "key-components/etcd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81af92c2e3b54473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "key-components/etcd simplified.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32a302ea5d427320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "key-components/kubectl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34a1cf1920f3cea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "key-components/pods.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +71,12 @@
             "id": "b066d762f857714e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-resources/Online Cources.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-resources/Online Cources.md",
+                "file": "key-components/pods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-resources/Online Cources.md",
+                "file": "key-components/pods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-resources/Online Cources.md"
+                "file": "key-components/pods.md"
               }
             }
           }
@@ -159,17 +203,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b066d762f857714e",
+  "active": "34a1cf1920f3cea0",
   "lastOpenFiles": [
-    "().md",
-    "learning-resources/Online Cources.md",
-    "Screenshot 2024-07-09 at 12.02.05.png",
-    "learning-resources/bookmarks.md",
-    "README.md",
+    "key-components/Replica Sets simplified.md",
+    "key-components/Replica Sets.md",
+    "key-components/etcd.md",
+    "key-components/pods.md",
+    "yaml-files/pod.yaml",
+    "yaml-files/pod-definition.yml",
+    "yaml-files",
     "Screenshot 2024-07-09 at 11.58.31.png",
-    "etcd.md",
-    "key-components/kube-apiserver.md",
+    "Screenshot 2024-07-09 at 12.02.05.png",
+    "README.md",
     "kubernetes-key-concepts.md",
-    "key-concepts.md"
+    "Docker key-concepts.md",
+    "key-components/kubectl simplified.md",
+    "common-cli-commands.md",
+    "key-components/kubectl.md",
+    "key-components/etcd simplified.md",
+    "2024-07-09.md",
+    "key-components/Kube-Proxy.md",
+    "key-components/Kubelet.md",
+    "key-components/Kube-Proxy",
+    "key-components/Kube scheduler.md",
+    "key-components/kube-apiserver.md",
+    "learning-resources/bookmarks.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "learning-resources/Online Cources.md",
+    "().md"
   ]
 }
