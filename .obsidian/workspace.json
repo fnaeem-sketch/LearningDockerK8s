@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "key-components/pods.md",
+                "file": "key-components/kubectl quick commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "key-components/pods.md",
+                "file": "key-components/kubectl quick commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "key-components/pods.md",
+                "file": "key-components/kubectl quick commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "key-components/pods.md"
+                "file": "key-components/kubectl quick commands.md"
               }
             }
           }
@@ -203,12 +203,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34a1cf1920f3cea0",
+  "active": "8ffd8b51baddab8a",
   "lastOpenFiles": [
-    "key-components/Replica Sets simplified.md",
-    "key-components/Replica Sets.md",
-    "key-components/etcd.md",
     "key-components/pods.md",
+    "key-components/kubectl quick commands.md",
+    "key-components/Replica Sets.md",
+    "key-components/Replica Sets simplified.md",
+    "key-components/etcd.md",
     "yaml-files/pod.yaml",
     "yaml-files/pod-definition.yml",
     "yaml-files",
