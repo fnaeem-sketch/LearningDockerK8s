@@ -4,79 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f3baa1c017caa95c",
+        "id": "0a89d5d3abb42c9c",
         "type": "tabs",
         "children": [
           {
-            "id": "42c25635104008fa",
+            "id": "73403f3593264364",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "key-components/kube-apiserver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d176ef82b1ad9907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "key-components/etcd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81af92c2e3b54473",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "key-components/etcd simplified.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32a302ea5d427320",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "key-components/kubectl.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34a1cf1920f3cea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "key-components/kubectl quick commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b066d762f857714e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "key-components/kubectl quick commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "key-components/kubectl quick commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "key-components/kubectl quick commands.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -203,13 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ffd8b51baddab8a",
+  "active": "73403f3593264364",
   "lastOpenFiles": [
-    "key-components/pods.md",
+    "key-components/services.md",
+    "key-components/kube-apiserver.md",
+    "key-components/etcd.md",
+    "key-components/etcd simplified.md",
+    "key-components/kubectl.md",
     "key-components/kubectl quick commands.md",
+    "key-components/pods.md",
     "key-components/Replica Sets.md",
     "key-components/Replica Sets simplified.md",
-    "key-components/etcd.md",
     "yaml-files/pod.yaml",
     "yaml-files/pod-definition.yml",
     "yaml-files",
@@ -220,14 +159,11 @@
     "Docker key-concepts.md",
     "key-components/kubectl simplified.md",
     "common-cli-commands.md",
-    "key-components/kubectl.md",
-    "key-components/etcd simplified.md",
     "2024-07-09.md",
     "key-components/Kube-Proxy.md",
     "key-components/Kubelet.md",
     "key-components/Kube-Proxy",
     "key-components/Kube scheduler.md",
-    "key-components/kube-apiserver.md",
     "learning-resources/bookmarks.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
